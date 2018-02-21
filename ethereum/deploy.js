@@ -20,4 +20,4 @@ const deploy = async () => {
   console.log('Contract deployed to', result.options.address);
 };
 deploy();
-//스마트 계약 주소 : 0x92Be45d340BE7207087d14DBf5eD6b3820234A17
+//스마트 계약 주소 : 
